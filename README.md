@@ -1,12 +1,12 @@
-## Project ESILV 5A - Application Cloud IMDB
+# Project ESILV 5A - Application Cloud IMDB
 
-Ce projet est une application réalisé en MERN Stack (MongoDB, Express, React, Node.js). Cette application à été développe par Bruno, Thomas, Daniel et Céline.
+Ce projet est une application réalisé en MERN Stack (MongoDB, Express, React, Node.js). Cette application à été développé par Bruno, Thomas, Daniel et Céline.
 
-### Comment lancer l'application
+## Comment lancer l'application
 
 Il y a ici deux projets dans un projet. En effet le back-end d'un coté, permet de créer les différentes APIs et le frontend de l'autre, y accède pour récuperer les informations nécessaire. 
-De ce fait, dans un premier temps il est necessaire de lancer la commande "npm run serve" dans le dossier backend.
-Puis une fois cela fait lancé "npm start" à la racine du projet.
+De ce fait, dans un premier temps, il est necessaire de lancer la commande "npm run serve" dans le dossier backend.
+Puis, une fois cela fait, lancer "npm start" à la racine du projet.
 
 ## README Initialisé avec React
 
